@@ -3,7 +3,13 @@
 **EchoRAG** is a multi-user **Retrieval-Augmented Generation (RAG)** application that allows users to upload journals, notes, and documents and interact with them through AI-powered conversations. By combining semantic search with Google's Gemini model, EchoRAG retrieves the most relevant memories from uploaded documents to generate context-aware responses.
 
 ---
+# Screenshots
+dashboard.png
+upload.png
+reflectmode.png
+roastmode.png
 
+---
 ## Features
 
 * Secure user authentication
