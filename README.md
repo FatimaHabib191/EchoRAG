@@ -197,12 +197,6 @@ Example:
 
 ---
 
-## Screenshots
-
-
-
----
-
 ## Author
 
 **Fatima Habib**
