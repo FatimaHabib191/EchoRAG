@@ -46,15 +46,10 @@ def show_chat_page(user):
 
     with col1:
 
-        mode = st.radio(
-    "Conversation Mode",
-    [
-        "Reflect",
-        "Roast 🔥",
-        "Then vs Now ⏳",
-    ],
-    horizontal=True,
-)
+        roast_mode = st.toggle(
+            "🔥 Roast Mode",
+            help="Get playful and brutally honest responses based on your journals."
+        )
 
     with col2:
 
