@@ -4,10 +4,10 @@
 
 ---
 # Screenshots
-dashboard.png
-upload.png
-reflectmode.png
-roastmode.png
+![dashboard](dashboard.png)
+![upload](upload.png)
+![reflect mode](reflectmode.png)
+![roast mode](roastmode.png)
 
 ---
 ## Features
