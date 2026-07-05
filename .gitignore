@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# Environment
+.env
+
+# Chroma
+storage/**/chroma/
+
+# Uploaded files (optional for development)
+storage/**/uploads/
+
+# SQLite
+*.db
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# macOS
+.DS_Store
